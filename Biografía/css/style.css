@@ -1,0 +1,79 @@
+    
+    .container{
+      background: #000000;
+      background-image: url("../images/england3-invert.jpeg");
+      min-height: 100%;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+   
+
+    .division0 {
+      color:black; 
+      text-align: center;
+    }
+    h1 {
+      font-size: 464%;
+      font-family:'Serif';
+      font-style: oblique;
+      text-shadow: 1px 1px rgb(118, 118, 118);
+      }
+    i {
+      font-size: 220%;
+      font-style: oblique;
+      text-decoration: underline;
+      }
+
+
+    .division1 {
+      margin-top: 5%;
+      padding: 0%;
+      display: block;
+      color: white;
+      background-color: rgb(0, 0, 0, 0.2);
+      
+    }
+    .img1 {
+      max-width: 65%;
+      
+      max-height:65%
+      }
+    
+
+    .division2 {
+                position: relative;
+                left: -100px;
+                text-align: left; 
+                font-family:'Serif';
+                font-style: oblique;
+                margin-top: 4%;
+                margin-bottom: 0%;
+                margin-left: 18%;
+                margin-right: 38%;
+                padding: 4%;
+                background: rgb(214, 202, 108);
+                color: black
+    }
+    
+    p{
+      font-size:110%
+    }
+    p span{
+      font-family:'Serif';
+      font-style: oblique;
+      color: rgb(214, 202, 108);
+      background-color: rgb(0, 0, 0, 1);
+    }
+
+    .division3{
+      margin: 0;
+      float:right;
+      padding: 0;
+      max-width: 28%;
+      max-height: 30%;
+      font-style: oblique;
+      font-family: serif;
+      color: white;
+    }
